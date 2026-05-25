@@ -1,14 +1,14 @@
-# Hola, soy Luis 👋
+# Ekusmedios Networking
 
-Desarrollo soluciones para **radios online**: reproductores web (PWA), plugins, paneles y herramientas de automatización para operación y despliegue.
+Construimos y mantenemos herramientas, recursos y proyectos para **radios online** y el ecosistema de **Estación Kusmedios / Ekusmedios**.
 
-## Lo que hago
-- 📻 Desarrollo proyectos para radios online
-- 🎧 Creación de reproductores web
-- 📝 Diseño y desarrollo de blogs
-- 🖥️ Software simple para manejo de equipos
+## Qué hacemos
+- 📻 Proyectos y utilidades para radios online
+- 🎧 Reproductores web (PWA) y embeds
+- 🧩 Plugins, paneles y herramientas de automatización
+- ⚙️ Deploy & self-hosting (Docker, scripts, VPS)
 
-## Mis habilidades técnicas
+## Tecnologías que usamos
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -22,14 +22,27 @@ Desarrollo soluciones para **radios online**: reproductores web (PWA), plugins, 
 - 📱 Diseño responsivo
 - 💻 Interfaces de usuario intuitivas
 
-## Portafolio
-
-En mi perfil encontrarás proyectos relacionados con:
+## Repositorios
+Aquí encontrarás:
 - 🎵 Reproductores web personalizados (PWA)
 - 📡 Sistemas y utilidades para emisoras online (AzuraCast, automatizaciones, plugins)
 - 📊 Paneles/administración para contenido
-- ⚙️ Deploy & self-hosting (Docker, scripts, VPS)
+- 🧰 Plantillas, scripts y documentación
+
+## Redes oficiales
+<p align="left">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/estacionkusgroup" target="_blank" rel="noopener noreferrer">
+    <img alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" height="28" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- X -->
+  <a href="https://x.com/ekusmedios" target="_blank" rel="noopener noreferrer">
+    <img alt="X" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="28" />
+  </a>
+</p>
 
 ## Contacto
-- GitHub 🔧: [@luisitoys12](https://github.com/luisitoys12)
-- Email 📧: [luisestacionkusmedios@gmail.com](mailto:luisestacionkusmedios@gmail.com)
+- GitHub: https://github.com/Ekusmedios-networking
+- Email: [luisestacionkusmedios@gmail.com](mailto:luisestacionkusmedios@gmail.com)
